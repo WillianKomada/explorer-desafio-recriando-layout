@@ -8,7 +8,7 @@
 ## 📝 Sobre
 
 <p>
-  Desafio Explorer - Desafio Recriando Layout. Desenvovler do zero uma aplicação front-end utilizando HTML e CSS.
+  Desafio Explorer - Desafio Recriando Layout. Desenvolver do zero uma aplicação front-end utilizando HTML e CSS.
 </p>
 
 ---

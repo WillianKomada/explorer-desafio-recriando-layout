@@ -8,7 +8,7 @@
 ## 📝 Sobre
 
 <p>
-  Desafio Explorer - Desafio Recriando Layout. Desenvolver do zero uma aplicação front-end utilizando HTML e CSS.
+  Desafio Explorer - Desafio Recriando Layout. Desenvolver do zero uma aplicação front-end utilizando HTML e CSS, a partir de um design no <a href="https://www.figma.com/file/4KOsLNgnZn3QW0Rpq80XvE/Explorer-(Copy)?node-id=16%3A106">Figma</a>.
 </p>
 
 ---
